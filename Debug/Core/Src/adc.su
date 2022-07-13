@@ -1,0 +1,3 @@
+adc.c:9:6:adc_conf	4	static
+adc.c:43:6:start_conv	4	static
+adc.c:52:10:read_conv	4	static
